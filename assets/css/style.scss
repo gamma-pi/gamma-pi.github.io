@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "main";
 
 /* Custom styling for 3-column layout */
 
@@ -18,7 +18,7 @@
 }
 
 /* Responsive: stack on mobile */
-@media (max-width: 768px) {
+@media (max-width: 736px) {
   .three-column-grid {
     grid-template-columns: 1fr;
     gap: 20px;
@@ -26,50 +26,15 @@
 }
 
 /* Tablet: 2 columns */
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 737px) and (max-width: 980px) {
   .three-column-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-/* Improve readability */
-body {
-  line-height: 1.7;
-}
-
-/* Lead paragraph styling */
-.lead {
-  font-size: 1.2em;
-  margin: 15px 0;
-  color: #f39c12;
-}
-
-/* Style the main heading */
-h1 {
-  border-bottom: 3px solid #f39c12;
-  padding-bottom: 10px;
-  margin-bottom: 20px;
-}
-
-/* Style section headers */
-h2 {
-  color: #f39c12;
-  margin-top: 50px;
-  margin-bottom: 20px;
-  border-bottom: 2px solid #444;
-  padding-bottom: 10px;
-}
-
-h3 {
-  margin-top: 0;
-  margin-bottom: 10px;
-  color: #eee;
-  font-size: 1.1em;
-}
-
 /* Column content spacing */
 .column h3 {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
   padding-bottom: 5px;
   margin-bottom: 10px;
 }
@@ -78,72 +43,9 @@ h3 {
   font-size: 0.95em;
 }
 
-/* Style the company/institution names */
-.column p strong {
-  color: #63c0f5;
-}
-
-/* Style lists */
-ul {
-  margin-left: 20px;
-  padding-left: 0;
-}
-
-li {
-  margin-bottom: 8px;
-}
-
-/* Style links */
-a {
-  color: #63c0f5;
-  text-decoration: none;
-  transition: color 0.3s;
-}
-
-a:hover {
-  color: #f39c12;
-  text-decoration: underline;
-}
-
-/* Style horizontal rules */
-hr {
-  border: 0;
-  height: 1px;
-  background: #444;
-  margin: 40px 0;
-}
-
-/* Style code blocks */
-code {
-  background: #1a1a1a;
-  padding: 2px 6px;
-  border-radius: 3px;
-}
-
 /* Equal height columns */
 .three-column-grid {
   align-items: start;
-}
-
-/* Emoji spacing */
-img.emoji {
-  margin: 0 2px;
-  vertical-align: middle;
-}
-
-/* Responsive text sizing */
-@media (max-width: 768px) {
-  h1 {
-    font-size: 1.8em;
-  }
-  
-  h2 {
-    font-size: 1.4em;
-  }
-  
-  .lead {
-    font-size: 1.1em;
-  }
 }
 
 /* Print styles */
