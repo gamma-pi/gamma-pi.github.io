@@ -8,58 +8,53 @@ Based in Athens, Greece 🇬🇷
 
 ## 💼 Professional Experience
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
-
-<div>
+<div class="grid-3col">
+<div class="col">
 
 ### DevSecOps Engineer
 **Accenture**  
 *Mar 2024 — Present*
 
 - Built CI/CD pipelines (GitLab)
-- Reduced downtime by ~30%
-- Analytics across 60+ repos
+- Reduced downtime by **~30%**
+- Analytics across **60+ repos**
 - FastAPI internal APIs
 - Led DevOps workshops
 
 </div>
-
-<div>
+<div class="col">
 
 ### Data Analyst
 **Novata**  
 *Aug 2023 — Dec 2023*
 
-- ESG data: 5,300+ companies
-- $7.5T AUM
+- ESG data: **5,300+ companies**
+- **$7.5T AUM**
 - KPIs & dashboards
-- SQL benchmarks (350+ sectors)
+- SQL benchmarks (**350+ sectors**)
 - Amplitude analytics
 
 </div>
-
-<div>
+<div class="col">
 
 ### Academic Consultant
 **Hasselt University**  
 *Aug 2022 — Aug 2023*
 
 - Nonlinear dynamics research
-- Taught Dynamical Systems
-- Linear Algebra, Geometry
+- Taught *Dynamical Systems*
+- *Linear Algebra, Geometry*
 - Supervised theses
 
 </div>
-
 </div>
 
 ---
 
 ## 🛠️ Skills
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
-
-<div>
+<div class="grid-3col">
+<div class="col">
 
 **Development**
 - Python (OOP, FastAPI)
@@ -68,8 +63,7 @@ Based in Athens, Greece 🇬🇷
 - REST APIs
 
 </div>
-
-<div>
+<div class="col">
 
 **DevOps**
 - GitLab CI/CD
@@ -78,8 +72,7 @@ Based in Athens, Greece 🇬🇷
 - Apache Spark
 
 </div>
-
-<div>
+<div class="col">
 
 **Data**
 - SQL, ETL
@@ -88,76 +81,75 @@ Based in Athens, Greece 🇬🇷
 - R, MATLAB
 
 </div>
-
 </div>
 
 ---
 
 ## 🎓 Education
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
-
-<div>
+<div class="grid-3col">
+<div class="col">
 
 **PhD Mathematics**  
 Hasselt University  
 *2022*
 
-</div>
+Geometry of mixed-mode oscillations in slow-fast systems
 
-<div>
+</div>
+<div class="col">
 
 **MSc Applied Math**  
 Heriot-Watt University  
 *2016*
 
-</div>
+Applied Mathematical Sciences
 
-<div>
+</div>
+<div class="col">
 
 **BSc Mathematics**  
 University of Patras  
 *2015*
 
-</div>
+Mathematics
 
+</div>
 </div>
 
 ---
 
 ## 📚 Publications
 
-- **Chaos and topological horseshoes** (2025, in prep)
-- **Jump-induced mixed-mode oscillations** - *J. Math. Analysis & Applications*, 2022
+- **Chaos and topological horseshoes in three-dimensional slow-fast systems** *(in preparation, 2025)*
+- **Jump-induced mixed-mode oscillations through piecewise-affine maps** - *Journal of Mathematical Analysis and Applications*, 2022
 
-[Google Scholar →](https://scholar.google.com/citations?user=yiorgospatsios)
+[→ Google Scholar Profile](https://scholar.google.com/citations?user=yiorgospatsios)
 
 ---
 
 ## 🗣️ Selected Talks
 
-- **Geometric Singular Perturbation Theory** - UHasselt, 2023
-- **Chaos and topological horseshoes** - Edinburgh, 2022
-- **Mixed-mode-oscillations** - Barcelona, 2020
+- **Geometric Singular Perturbation Theory** - *UHasselt Winter School, 2023*
+- **Chaos and topological horseshoes** - *University of Edinburgh, 2022*
+- **Geometrically-induced mixed-mode-oscillations** - *Barcelona, 2020*
 
 ---
 
 ## 🌐 Languages
 
-Greek (Native) | English (Fluent) | French (Intermediate) | Dutch (Beginner)
+**Greek** (Native) • **English** (Fluent) • **French** (Intermediate) • **Dutch** (Beginner)
 
 ---
 
 ## 📫 Contact
 
-- **Email:** [giopatsios@gmail.com](mailto:giopatsios@gmail.com)
-- **GitHub:** [gamma-pi](https://github.com/gamma-pi)
-- **LinkedIn:** [yiorgos-patsios](https://linkedin.com/in/yiorgos-patsios)
-- **Location:** Athens, Greece
-- **Phone:** (+30) 6945921304
+**Email:** [giopatsios@gmail.com](mailto:giopatsios@gmail.com)  
+**GitHub:** [gamma-pi](https://github.com/gamma-pi)  
+**LinkedIn:** [yiorgos-patsios](https://linkedin.com/in/yiorgos-patsios)  
+**Location:** Athens, Greece  
+**Phone:** (+30) 6945921304
 
 ---
 
-<p style="text-align: center; font-size: 0.9em; color: #666;">
-<em>Interested in DevOps, data engineering, or research collaboration? Let's connect!</em>
-</p>
+*Interested in DevOps, data engineering, or research collaboration? Let's connect!*
