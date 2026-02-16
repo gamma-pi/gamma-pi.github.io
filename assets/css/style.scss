@@ -1,0 +1,101 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styling for your GitHub Pages site */
+
+/* Improve readability */
+body {
+  line-height: 1.7;
+}
+
+/* Style the about section */
+h1 {
+  border-bottom: 2px solid #f39c12;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+/* Style section headers */
+h2 {
+  color: #f39c12;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #444;
+  padding-bottom: 8px;
+}
+
+h3 {
+  margin-top: 25px;
+  margin-bottom: 10px;
+  color: #eee;
+}
+
+/* Style the job titles and companies */
+h3 + p strong {
+  color: #f39c12;
+}
+
+/* Style lists */
+ul {
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* Style links */
+a {
+  color: #63c0f5;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #f39c12;
+  text-decoration: underline;
+}
+
+/* Style horizontal rules */
+hr {
+  border: 0;
+  height: 1px;
+  background: #444;
+  margin: 30px 0;
+}
+
+/* Style code blocks if needed */
+code {
+  background: #1a1a1a;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+/* Improve spacing for contact section */
+#get-in-touch + ul {
+  list-style: none;
+  margin-left: 0;
+}
+
+#get-in-touch + ul li {
+  padding-left: 0;
+}
+
+/* Emoji spacing */
+img.emoji {
+  margin: 0 2px;
+  vertical-align: middle;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.8em;
+  }
+  
+  h2 {
+    font-size: 1.4em;
+  }
+}
