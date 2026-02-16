@@ -1,21 +1,37 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Yiorgos Patsios
+subtitle: DevOps Engineer | Data Scientist | Mathematics PhD
+email: giopatsios@gmail.com
+description: DevOps engineer specializing in CI/CD, cloud automation, and data workflows. PhD in Mathematics with expertise in nonlinear dynamics.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author: Yiorgos Patsios
+
+# Homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/gamma-pi
+gitlab_url:
+googleplus_url: 
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/yiorgos-patsios/
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
+
+# Theme settings
 remote_theme: andrewbanchich/forty-jekyll-theme
+
 plugins:
   - jekyll-remote-theme
 
-# Site settings
-title: Yiorgos Patsios
-description: DevOps Engineer | Data Scientist | Mathematics PhD
-
-# Personal info
-email: giopatsios@gmail.com
-location: Athens, Greece
-phone: (+30) 6945921304
-
-# Social links
-github_username: gamma-pi
-linkedin_username: yiorgos-patsios
-google_scholar: yiorgospatsios
-
-# Optional
-show_downloads: false
+# Sass settings
+sass:
+  style: compressed
