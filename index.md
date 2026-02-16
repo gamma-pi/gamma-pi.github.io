@@ -1,135 +1,163 @@
----
-layout: home
-title: Home
-landing-title: 'Yiorgos Patsios'
-description: DevOps Engineer | Data Scientist | Mathematics PhD
-image: null
-author: null
-show_tile: false
----
+# Yiorgos Patsios
 
-## About Me
+**DevOps Engineer | Data Scientist | Mathematics PhD**
 
-DevOps engineer specializing in CI/CD, cloud automation, and data workflows for AI and ESG applications. With a PhD in Mathematics and expertise in nonlinear dynamics, I bring strong analytical and problem-solving skills to enterprise-scale engineering challenges.
-
-Currently based in **Athens, Greece** 🇬🇷
+Based in Athens, Greece 🇬🇷
 
 ---
 
 ## 💼 Professional Experience
 
-### DevSecOps/DataOps Engineer
-**Accenture** | Athens, Greece | *Mar 2024 — Present*
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
 
-- Built and optimized CI/CD pipelines using GitLab, improving deployment reliability and reducing downtime by ~30%
-- Designed a CI/CD analytics collector system that aggregates metrics across 60+ repositories
-- Developed internal APIs with FastAPI to expose DevOps services as reusable endpoints
-- Automated repository management for 20+ teams
-- Deployed big data applications using Apache Spark on IOMETE
-- Led DevOps workshops and knowledge-sharing sessions
+<div>
+
+### DevSecOps Engineer
+**Accenture**  
+*Mar 2024 — Present*
+
+- Built CI/CD pipelines (GitLab)
+- Reduced downtime by ~30%
+- Analytics across 60+ repos
+- FastAPI internal APIs
+- Led DevOps workshops
+
+</div>
+
+<div>
 
 ### Data Analyst
-**Novata** | London, UK | *Aug 2023 — Dec 2023*
+**Novata**  
+*Aug 2023 — Dec 2023*
 
-- Managed ESG data from 5,300+ companies representing $7.5T in assets under management
-- Built KPIs and dashboards using Metabase/Sisense for cross-functional stakeholders
-- Developed SQL-based benchmarks for 350+ sectors
-- Delivered behavioral analytics insights using Amplitude
+- ESG data: 5,300+ companies
+- $7.5T AUM
+- KPIs & dashboards
+- SQL benchmarks (350+ sectors)
+- Amplitude analytics
+
+</div>
+
+<div>
 
 ### Academic Consultant
-**Hasselt University** | Diepenbeek, Belgium | *Aug 2022 — Aug 2023*
+**Hasselt University**  
+*Aug 2022 — Aug 2023*
 
-- Researched nonlinear dynamics in neural networks using mathematical modeling
-- Taught MSc/BSc courses in Dynamical Systems, Linear Algebra, and Geometry
-- Supervised undergraduate theses on singular perturbations and mixed-mode oscillations
+- Nonlinear dynamics research
+- Taught Dynamical Systems
+- Linear Algebra, Geometry
+- Supervised theses
+
+</div>
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-<div class="row">
-<div class="4u 12u$(medium)">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
 
-**Core Development**
-- Python (OOP, FastAPI, REST APIs)
+<div>
+
+**Development**
+- Python (OOP, FastAPI)
 - Bash, PowerShell
 - Go (beginner)
+- REST APIs
 
 </div>
-<div class="4u 12u$(medium)">
 
-**DevOps & Cloud**
+<div>
+
+**DevOps**
 - GitLab CI/CD
 - Docker, Kubernetes
 - Vault, Harbor
 - Apache Spark
 
 </div>
-<div class="4u$ 12u$(medium)">
 
-**Data & Analytics**
-- SQL, ETL Tools
-- Pandas, NumPy, Scikit-learn
-- Power BI, Matplotlib, Seaborn
+<div>
+
+**Data**
+- SQL, ETL
+- Pandas, NumPy
+- Power BI
 - R, MATLAB
 
 </div>
+
 </div>
 
 ---
 
 ## 🎓 Education
 
-<div class="row">
-<div class="4u 12u$(medium)">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
 
-**PhD in Mathematics**  
-Hasselt University, Belgium | *2022*
+<div>
 
-*Dissertation: Geometry of mixed-mode oscillations and topological horseshoes in three-dimensional slow-fast systems*
-
-</div>
-<div class="4u 12u$(medium)">
-
-**MSc in Applied Mathematical Sciences**  
-Heriot-Watt University, UK | *2016*
+**PhD Mathematics**  
+Hasselt University  
+*2022*
 
 </div>
-<div class="4u$ 12u$(medium)">
 
-**BSc in Mathematics**  
-University of Patras, Greece | *2015*
+<div>
+
+**MSc Applied Math**  
+Heriot-Watt University  
+*2016*
 
 </div>
+
+<div>
+
+**BSc Mathematics**  
+University of Patras  
+*2015*
+
+</div>
+
 </div>
 
 ---
 
-## 📚 Publications & Research
+## 📚 Publications
 
-**Selected Publications:**
-- **An investigation of chaos and topological horseshoes in three-dimensional slow-fast systems** (in preparation, 2025)
-- **Jump-induced mixed-mode oscillations through piecewise-affine maps** - *Journal of Mathematical Analysis and Applications*, 2022
+- **Chaos and topological horseshoes** (2025, in prep)
+- **Jump-induced mixed-mode oscillations** - *J. Math. Analysis & Applications*, 2022
 
-**Selected Talks:**
-- Geometric Singular Perturbation Theory - UHasselt Winter School, Jan 2023
-- Investigation of chaos and topological horseshoes - University of Edinburgh, May 2022
-- Geometrically-induced mixed-mode-oscillations - Centre de Recerca Mathematica, Barcelona, Feb 2020
+[Google Scholar →](https://scholar.google.com/citations?user=yiorgospatsios)
 
-[View my full research profile on Google Scholar →](https://scholar.google.com/citations?user=yiorgospatsios)
+---
+
+## 🗣️ Selected Talks
+
+- **Geometric Singular Perturbation Theory** - UHasselt, 2023
+- **Chaos and topological horseshoes** - Edinburgh, 2022
+- **Mixed-mode-oscillations** - Barcelona, 2020
 
 ---
 
 ## 🌐 Languages
 
-**Greek** (Native) | **English** (Fluent) | **French** (Intermediate) | **Dutch** (Beginner)
+Greek (Native) | English (Fluent) | French (Intermediate) | Dutch (Beginner)
 
 ---
 
-## 📫 Get in Touch
-
-Interested in DevOps automation, data engineering, or research collaboration? Feel free to reach out!
+## 📫 Contact
 
 - **Email:** [giopatsios@gmail.com](mailto:giopatsios@gmail.com)
+- **GitHub:** [gamma-pi](https://github.com/gamma-pi)
+- **LinkedIn:** [yiorgos-patsios](https://linkedin.com/in/yiorgos-patsios)
 - **Location:** Athens, Greece
 - **Phone:** (+30) 6945921304
+
+---
+
+<p style="text-align: center; font-size: 0.9em; color: #666;">
+<em>Interested in DevOps, data engineering, or research collaboration? Let's connect!</em>
+</p>
