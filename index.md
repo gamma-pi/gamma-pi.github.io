@@ -1,8 +1,6 @@
 ---
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 # Yiorgos Patsios
 
 **DevOps Engineer | Data Scientist | Mathematics PhD**
@@ -13,136 +11,37 @@ Based in Athens, Greece 🇬🇷
 
 ## 💼 Professional Experience
 
-<div class="grid-3col">
+| Company | Duration | Role | Description |
+|---------|---------|------|------------|
+| Accenture | Mar 2024 — Present | DevSecOps Engineer | - Built CI/CD pipelines (GitLab) <br> - Reduced downtime by **~30%** <br> - Analytics across **60+ repos** <br> - FastAPI internal APIs <br> - Led DevOps workshops |
+| Novata | Aug 2023 — Dec 2023 | Data Analyst | - ESG data: **5,300+ companies** <br> - **$7.5T AUM** <br> - KPIs & dashboards <br> - SQL benchmarks (**350+ sectors**) <br> - Amplitude analytics |
+| Hasselt University | Aug 2022 — Aug 2023 | Academic Consultant | - Nonlinear dynamics research <br> - Taught *Dynamical Systems* <br> - *Linear Algebra, Geometry* <br> - Supervised theses |
 
-<div class="col">
-
-### DevSecOps Engineer
-**Accenture**  
-*Mar 2024 — Present*
-
-- Built CI/CD pipelines (GitLab)
-- Reduced downtime by **~30%**
-- Analytics across **60+ repos**
-- FastAPI internal APIs
-- Led DevOps workshops
-
-</div>
-
-<div class="col">
-
-### Data Analyst
-**Novata**  
-*Aug 2023 — Dec 2023*
-
-- ESG data: **5,300+ companies**
-- **$7.5T AUM**
-- KPIs & dashboards
-- SQL benchmarks (**350+ sectors**)
-- Amplitude analytics
-
-</div>
-
-<div class="col">
-
-### Academic Consultant
-**Hasselt University**  
-*Aug 2022 — Aug 2023*
-
-- Nonlinear dynamics research
-- Taught *Dynamical Systems*
-- *Linear Algebra, Geometry*
-- Supervised theses
-
-</div>
-
-</div>
 
 ---
 
 ## 🛠️ Skills
 
-<div class="grid-3col">
-
-<div class="col">
-
-**Development**
-
-- Python (OOP, FastAPI)
-- Bash, PowerShell
-- Go (beginner)
-- REST APIs
-
-</div>
-
-<div class="col">
-
-**DevOps**
-
-- GitLab CI/CD
-- Docker, Kubernetes
-- Vault, Harbor
-- Apache Spark
-
-</div>
-
-<div class="col">
-
-**Data**
-
-- SQL, ETL
-- Pandas, NumPy
-- Power BI
-- R, MATLAB
-
-</div>
-
-</div>
+| Development | DevOps | Data |
+|------------|--------|------|
+| - Python (OOP, FastAPI) <br> - Bash, PowerShell <br> - Go (beginner) <br> - REST APIs | - GitLab CI/CD <br> - Docker, Kubernetes <br> - Vault, Harbor <br> - Apache Spark | - SQL, ETL <br> - Pandas, NumPy <br> - Power BI <br> - R, MATLAB |
 
 ---
 
 ## 🎓 Education
 
-<div class="grid-3col">
-
-<div class="col">
-
-**PhD Mathematics**  
-Hasselt University  
-*2022*
-
-Geometry of mixed-mode oscillations in slow-fast systems
-
-</div>
-
-<div class="col">
-
-**MSc Applied Math**  
-Heriot-Watt University  
-*2016*
-
-Applied Mathematical Sciences
-
-</div>
-
-<div class="col">
-
-**BSc Mathematics**  
-University of Patras  
-*2015*
-
-Mathematics
-
-</div>
-
-</div>
+| Degree | Institution | Year | Details |
+|--------|------------|------|--------|
+| PhD Mathematics | Hasselt University | 2022 | Geometry of mixed-mode oscillations in slow-fast systems |
+| MSc Applied Math | Heriot-Watt University | 2016 | Applied Mathematical Sciences |
+| BSc Mathematics | University of Patras | 2015 | Mathematics |
 
 ---
 
 ## 📚 Publications
 
-- **Chaos and topological horseshoes in three-dimensional slow-fast systems** *(in preparation, 2025)*
-- **Jump-induced mixed-mode oscillations through piecewise-affine maps** - *Journal of Mathematical Analysis and Applications*, 2022
+- **Chaos and topological horseshoes in three-dimensional slow-fast systems** *(in preparation, 2025)*  
+- **Jump-induced mixed-mode oscillations through piecewise-affine maps** - *Journal of Mathematical Analysis and Applications*, 2022  
 
 [→ Google Scholar Profile](https://scholar.google.com/citations?user=yiorgospatsios)
 
@@ -150,8 +49,8 @@ Mathematics
 
 ## 🗣️ Selected Talks
 
-- **Geometric Singular Perturbation Theory** - *UHasselt Winter School, 2023*
-- **Chaos and topological horseshoes** - *University of Edinburgh, 2022*
+- **Geometric Singular Perturbation Theory** - *UHasselt Winter School, 2023*  
+- **Chaos and topological horseshoes** - *University of Edinburgh, 2022*  
 - **Geometrically-induced mixed-mode-oscillations** - *Barcelona, 2020*
 
 ---
