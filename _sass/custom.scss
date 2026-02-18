@@ -1,0 +1,104 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 3-column grid system */
+.grid-3col {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+  margin: 25px 0;
+}
+
+.col {
+  padding: 0;
+}
+
+/* Responsive: stack on tablets and mobile */
+@media screen and (max-width: 980px) {
+  .grid-3col {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .grid-3col {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+}
+
+/* Better spacing and typography */
+body {
+  line-height: 1.7;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #e5e5e5;
+  padding-bottom: 8px;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 1.15em;
+}
+
+.col h3 {
+  border-bottom: 1px solid #f0f0f0;
+  padding-bottom: 5px;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: #4183c4;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #1e70bf;
+}
+
+/* Lists inside columns */
+.col ul {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.col li {
+  margin-bottom: 5px;
+  font-size: 0.95em;
+}
+
+/* Horizontal rules */
+hr {
+  border: 0;
+  border-top: 1px solid #e5e5e5;
+  margin: 30px 0;
+}
+
+/* Better paragraph spacing */
+p {
+  margin-bottom: 15px;
+}
+
+/* Style strong/bold text */
+strong {
+  font-weight: 600;
+  color: #333;
+}
+
+/* Style italic text */
+em {
+  font-style: italic;
+  color: #555;
+}

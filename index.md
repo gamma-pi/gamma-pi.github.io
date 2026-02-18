@@ -1,6 +1,8 @@
 ---
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 # Yiorgos Patsios
 
 **DevOps Engineer | Data Scientist | Mathematics PhD**
