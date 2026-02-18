@@ -1,3 +1,6 @@
+---
+---
+
 # Yiorgos Patsios
 
 **DevOps Engineer | Data Scientist | Mathematics PhD**
@@ -9,6 +12,7 @@ Based in Athens, Greece 🇬🇷
 ## 💼 Professional Experience
 
 <div class="grid-3col">
+
 <div class="col">
 
 ### DevSecOps Engineer
@@ -22,6 +26,7 @@ Based in Athens, Greece 🇬🇷
 - Led DevOps workshops
 
 </div>
+
 <div class="col">
 
 ### Data Analyst
@@ -35,6 +40,7 @@ Based in Athens, Greece 🇬🇷
 - Amplitude analytics
 
 </div>
+
 <div class="col">
 
 ### Academic Consultant
@@ -47,6 +53,7 @@ Based in Athens, Greece 🇬🇷
 - Supervised theses
 
 </div>
+
 </div>
 
 ---
@@ -54,33 +61,40 @@ Based in Athens, Greece 🇬🇷
 ## 🛠️ Skills
 
 <div class="grid-3col">
+
 <div class="col">
 
 **Development**
+
 - Python (OOP, FastAPI)
 - Bash, PowerShell
 - Go (beginner)
 - REST APIs
 
 </div>
+
 <div class="col">
 
 **DevOps**
+
 - GitLab CI/CD
 - Docker, Kubernetes
 - Vault, Harbor
 - Apache Spark
 
 </div>
+
 <div class="col">
 
 **Data**
+
 - SQL, ETL
 - Pandas, NumPy
 - Power BI
 - R, MATLAB
 
 </div>
+
 </div>
 
 ---
@@ -88,6 +102,7 @@ Based in Athens, Greece 🇬🇷
 ## 🎓 Education
 
 <div class="grid-3col">
+
 <div class="col">
 
 **PhD Mathematics**  
@@ -97,6 +112,7 @@ Hasselt University
 Geometry of mixed-mode oscillations in slow-fast systems
 
 </div>
+
 <div class="col">
 
 **MSc Applied Math**  
@@ -106,6 +122,7 @@ Heriot-Watt University
 Applied Mathematical Sciences
 
 </div>
+
 <div class="col">
 
 **BSc Mathematics**  
@@ -115,6 +132,7 @@ University of Patras
 Mathematics
 
 </div>
+
 </div>
 
 ---
