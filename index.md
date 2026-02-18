@@ -9,11 +9,12 @@ Based in Athens, Greece 🇬🇷
 
 ## 💼 Professional Experience
 
-| Company | Duration | Role | Description |
-|---------|---------|------|------------|
-| Accenture | Mar 2024 — Present | DevSecOps Engineer | - Built CI/CD pipelines (GitLab) <br> - Reduced downtime by **~30%** <br> - Analytics across **60+ repos** <br> - FastAPI internal APIs <br> - Led DevOps workshops |
-| Novata | Aug 2023 — Dec 2023 | Data Analyst | - ESG data: **5,300+ companies** <br> - **$7.5T AUM** <br> - KPIs & dashboards <br> - SQL benchmarks (**350+ sectors**) <br> - Amplitude analytics |
-| Hasselt University | Aug 2022 — Aug 2023 | Academic Consultant | - Nonlinear dynamics research <br> - Taught *Dynamical Systems* <br> - *Linear Algebra, Geometry* <br> - Supervised theses |
+| Duration | Role | Company | Details |
+|---------|------|--------|--------|
+| Mar 2024 — Present | DevSecOps Engineer | Accenture | - Built CI/CD pipelines (GitLab) <br> - Reduced downtime by **~30%** <br> - Analytics across **60+ repos** <br> - FastAPI internal APIs <br> - Led DevOps workshops |
+| Aug 2023 — Dec 2023 | Data Analyst | Novata | - ESG data: **5,300+ companies** <br> - **$7.5T AUM** <br> - KPIs & dashboards <br> - SQL benchmarks (**350+ sectors**) <br> - Amplitude analytics |
+| Aug 2022 — Aug 2023 | Academic Consultant | Hasselt University | - Nonlinear dynamics research <br> - Taught *Dynamical Systems* <br> - *Linear Algebra, Geometry* <br> - Supervised theses |
+
 
 
 ---
