@@ -1,9 +1,7 @@
 ---
 ---
 
-# Yiorgos Patsios
-
-**DevOps Engineer | Data Scientist | Mathematics PhD**
+## Hey there! Welcome to my page. 
 
 Based in Athens, Greece 🇬🇷
 
