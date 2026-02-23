@@ -1,4 +1,5 @@
 ---
+layout: home
 ---
 
 ## Hey there! Welcome to my page. 
