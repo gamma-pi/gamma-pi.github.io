@@ -3,6 +3,7 @@ description: DevOps Engineer | Data Scientist | Mathematics PhD
 show_downloads: false
 
 theme: minima
+show_excerpts: false
 
 # Personal info
 email: giopatsios@gmail.com
